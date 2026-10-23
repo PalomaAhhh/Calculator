@@ -1,0 +1,3 @@
+PROJEKTBEZEICHNUNG: Taschenrechner
+PROJEKTZWECK: Übung
+VERSION oder DATUM: Okt. 2026
